@@ -1,0 +1,5 @@
+service yamaha537 /vendor/bin/yamaha537
+    disabled
+    user system
+    group system input
+    class main
